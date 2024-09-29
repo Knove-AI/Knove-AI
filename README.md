@@ -59,7 +59,7 @@
       <td>Calculate matching score using cross-encoder</td>
     </tr>
     <tr>
-      <td rowspan="20">机器学习</td>
+      <td rowspan="15">机器学习</td>
       <td>机器学习概述</td>
       <td>Refine input by extracting important context</td>
     </tr>
@@ -69,124 +69,124 @@
     </tr>
     <tr>
       <td>k近邻算法</td>
-      <td><a href="https://aclanthology.org/2023.emnlp-main.825/">LLMLingua-series</a> prompt compressor</td>
+      <td><a href="#wrench-installation">LLMLingua-series</a> prompt compressor</td>
     </tr>
     <tr>
       <td>感知机</td>
-      <td><a href="https://arxiv.org/abs/2310.06201">Selective-Context</a> prompt compressor</td>
+      <td><a href="#wrench-installation">Selective-Context</a> prompt compressor</td>
     </tr>
     <tr>
       <td>贝叶斯分类器</td>
-      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+      <td>Use <a hred="#wrench-installation">Trace method to construct a knowledge graph</td>
     <tr>
     <tr>
       <td>逻辑回归与最大熵模型</td>
-      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+      <td>Use Trace method to construct a knowledge graph</td>
     <tr>
     <tr>
       <td>支持向量机</td>
-      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+      <td>Use Trace method to construct a knowledge graph</td>
     <tr>
     <tr>
       <td>决策树与随机森林</td>
-      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+      <td>Use Trace method to construct a knowledge graph</td>
     <tr>
     <tr>
       <td>集成学习</td>
-      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+      <td>Use Trace method to construct a knowledge graph</td>
     <tr>
     <tr>
       <td>EM算法</td>
-      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+      <td>Use Trace method to construct a knowledge graph</td>
     <tr>
     <tr>
       <td>聚类</td>
-      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+      <td>Use Trace method to construct a knowledge graph</td>
     <tr>
     <tr>
       <td>降维</td>
-      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+      <td>Use Trace method to construct a knowledge graph</td>
     <tr>
     <tr>
       <td>特征选择</td>
-      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+      <td>Use Trace method to construct a knowledge graph</td>
     <tr>
     <tr>
       <td>话题模型</td>
-      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+      <td>Use Trace method to construct a knowledge graph</td>
     <tr>
     <tr>
       <td>概率图模型</td>
-      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+      <td>Use Trace method to construct a knowledge graph</td>
     <tr>
       <td rowspan="10">深度学习</td>
       <td>深度学习概述</td>
-      <td>Encoder-Decoder model, supporting <a href="https://arxiv.org/abs/2007.01282">Fusion-in-Decoder (FiD)</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>神经网络模型</td>
-      <td>Accelerate with <a href="https://github.com/lm-sys/FastChat">FastChat</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>卷积神经网络</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>循环神经网络</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>神经网络的优化</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>自编码器</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>深度生成模型</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>注意力机制与外部记忆</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>图神经网络</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>深度强化学习</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td rowspan="10">自然语言处理</td>
       <td>自然语言处理概述</td>
-      <td>Encoder-Decoder model, supporting <a href="https://arxiv.org/abs/2007.01282">Fusion-in-Decoder (FiD)</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>词向量</td>
-      <td>Accelerate with <a href="https://github.com/lm-sys/FastChat">FastChat</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>语言模型</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>序列到序列</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>预训练模型</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>大语言模型</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
       <td>自然语言处理应用</td>
-      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+      <td>Use Trace method to construct a knowledge graph</td>
     </tr>
   </tbody>
 </table>
