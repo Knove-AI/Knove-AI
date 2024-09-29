@@ -4,7 +4,7 @@
 
 #### 向量
 
-**标量(scalar)**是一个实数，一般用斜体小写字母$a,b,c$来表示。**向量(vector)**是由一组实数组成的有序数组，一个$n$维向量$\boldsymbol a$由$n$个有序实数组成，表示为$\boldsymbol{a}=\left[a_{1}, a_{2}, \cdots, a_{n}\right]$，其中$a_{i}$称为向量$\boldsymbol{a}$的第$i$个分量(第$i$维)。
+**标量(scalar)**是一个实数，一般用斜体小写字母$a,b,c$来表示。**向量(vector)**是由一组实数组成的有序数组，一个`$n$`维向量$\boldsymbol a$由$n$个有序实数组成，表示为$\boldsymbol{a}=\left[a_{1}, a_{2}, \cdots, a_{n}\right]$，其中$a_{i}$称为向量$\boldsymbol{a}$的第$i$个分量(第$i$维)。
 
 ```python
 # numpy库常用于实现线性代数中向量和矩阵的基本操作
