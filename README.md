@@ -28,19 +28,29 @@
 
 #### 知予AI学习手册
 
-<a href="https://github.com/Knove-AI">人工智能的数学基础</a>
+<a href="https://github.com/Knove-AI">1. 人工智能的数学基础</a>
 
-<a href="https://github.com/Knove-AI">机器学习</a>
+    <a href="https://github.com/Knove-AI">1.1 线性代数</a>
 
-<a href="https://github.com/Knove-AI">深度学习</a>
+    <a href="https://github.com/Knove-AI">1.2 微积分</a>
 
-<a href="https://github.com/Knove-AI">自然语言处理</a>
+    <a href="https://github.com/Knove-AI">1.3 数学优化</a>
+    
+    <a href="https://github.com/Knove-AI">1.4 概率统计</a>
 
-<a href="https://github.com/Knove-AI">计算机视觉</a>
+    <a href="https://github.com/Knove-AI">1.5 信息论</a>
+
+<a href="https://github.com/Knove-AI">2. 机器学习</a>
+
+<a href="https://github.com/Knove-AI">3. 深度学习</a>
+
+<a href="https://github.com/Knove-AI">4. 自然语言处理</a>
+
+<a href="https://github.com/Knove-AI">5. 计算机视觉</a>
 
 #### 知予AI研究手册
 
-敬请期待
+敬请期待～
 
 ### ☎️ 联系我们
 
@@ -49,5 +59,7 @@
 <img src="assets/QRcode.jpeg" style="width: 30%;">
 
 ### 📰 News
+
 [2024-09-29] 知予AI平台中文研究手册发布准备中！💪
+
 [2024-09-29] 知予AI平台中文学习手册在Github正式发布！🎉
