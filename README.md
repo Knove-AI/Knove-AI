@@ -62,64 +62,64 @@
     </tr>
     <tr>
       <td rowspan="15"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/2-机器学习">机器学习</a></td>
-      <td>机器学习概述</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML1-机器学习概述.md">机器学习概述</a></td>
       <td>人工智能，统计学习，统计学习的分类，统计学习三要素，模型评估，模型选择，正则化，交叉验证，泛化能力，生成模型与判别模型，监督学习的评价指标，假设空间，归纳偏好</td>
     </tr>
     <tr>
-      <td>线性回归</td>
-      <td>Refine input through seq2seq model</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML2-线性回归.md">线性回归</td>
+      <td>线性回归模型，经验风险最小化，结构风险最小化，最大似然估计与均方误差，最大后验估计与正则化，基于numpy实现线性回归模型，使用scikit-learn中的线性回归算法对波士顿房价进行预测</td>
     </tr>
     <tr>
-      <td>k近邻算法</td>
-      <td><a href="#wrench-installation">LLMLingua-series</a> prompt compressor</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML3-k近邻算法.md">k近邻算法</td>
+      <td>k近邻算法原理，k近邻算法的参数，kd树，基于numpy的k近邻算法实现，使用scikit-learn中的k近邻算法对鸢尾花数据进行分类</td>
     </tr>
     <tr>
-      <td>感知机</td>
-      <td><a href="#wrench-installation">Selective-Context</a> prompt compressor</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML4-感知机.md">感知机</td>
+      <td>感知机算法，感知机算法的收敛性，参数平均感知机，基于numpy的感知机实现，使用scikit-learn中的感知机算法对自行构建的数据集进行二分类</td>
     </tr>
     <tr>
-      <td>贝叶斯分类器</td>
-      <td>Use <a hred="#wrench-installation">Trace method to construct a knowledge graph</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML5-贝叶斯分类器.md">贝叶斯分类器</td>
+      <td>朴素贝叶斯的学习与分类，朴素贝叶斯的参数估计，高斯朴素贝叶斯，半朴素贝叶斯分类器，基于numpy的朴素贝叶斯实现，使用scikit-learn中的多项式朴素贝叶斯算法对新闻文本进行分类</td>
     </tr>
     <tr>
-      <td>逻辑回归与最大熵模型</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML6-逻辑回归与最大熵模型.md">逻辑回归与最大熵模型</td>
+      <td>逻辑回归模型，softmax回归模型，最大熵模型，基于numpy的逻辑回归实现，使用scikit-learn中的逻辑回归算法完成自定义数据集上的分类任务</td>
     </tr>
     <tr>
-      <td>支持向量机</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML7-支持向量机.md">支持向量机</td>
+      <td>线性支持向量机与硬间隔最大化，线性支持向量机与软间隔最大化，非线性支持向量机与核函数，线性可分支持向量机的算法实现，使用scikit-learn中的支持向量机算法对鸢尾花数据进行分类</td>
     </tr>
     <tr>
-      <td>决策树与随机森林</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML8-决策树与随机森林.md">决策树与随机森林</td>
+      <td>决策树模型，特征选择，决策树的生成，决策树的剪枝，连续与缺失值，多变量决策树，使用scikit-learn中的决策树算法对鸢尾花数据进行分类</td>
     </tr>
     <tr>
-      <td>集成学习</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML9-集成学习.md">集成学习</td>
+      <td>个体与集成，集成学习的误差分析，Boosting，基于numpy的AdaBoost算法实现，使用scikit-learn中的AdaBoost算法完成自定义数据集上的分类任务，Bagging与随机森林，结合策略，提升树模型，从零开始实现一个GBDT算法系统</td>
     </tr>
     <tr>
-      <td>EM算法</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML10-EM算法.md">EM算法</td>
+      <td>EM算法的引入，EM算法过程，EM算法的Python实现</td>
     </tr>
     <tr>
-      <td>聚类</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML11-聚类.md">聚类</td>
+      <td>聚类的基本概念，层次聚类，k均值聚类，聚类算法拓展，基于numpy的k均值聚类算法实现，对比scikit-learn中不同的聚类算法并将聚类结果可视化</td>
     </tr>
     <tr>
-      <td>降维</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML12-降维.md">降维</td>
+      <td>主成分分析，基于numpy的主成分分析算法实现，使用scikit-learn中的主成分分析算法对Olivetti人脸数据集进行降维及特征脸的提取，流形学习，使用scikit-learn中的t-SNE算法完成恒星光谱数据的降维</td>
     </tr>
     <tr>
-      <td>特征选择</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML13-特征选择.md">特征选择</td>
+      <td>子集搜索与评价，过滤式选择，包裹式选择，嵌入式选择与L1正则化，稀疏表示与字典学习，scikit-learn实现几种特征选择方法</td>
     </tr>
     <tr>
-      <td>话题模型</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML14-话题模型.md">话题模型</td>
+      <td>单词向量空间与话题向量空间，潜在语义分析算法，概率潜在语义分析模型，潜在狄利克雷分配，使用gensim中的潜在狄利克雷分配对题目文本进行主题分析</td>
     </tr>
     <tr>
-      <td>概率图模型</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML15-概率图模型.md">概率图模型</td>
+      <td>概率图模型概述，模型表示，概率图模型的学习，概率图模型的推断，基于隐马尔可夫模型的语音识别，基于隐马尔可夫模型的语音识别</td>
     </tr>
     <tr>
       <td rowspan="10">深度学习</td>
