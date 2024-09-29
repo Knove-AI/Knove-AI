@@ -59,7 +59,7 @@
       <td>Calculate matching score using cross-encoder</td>
     </tr>
     <tr>
-      <td rowspan="20">机器学习</td>
+      <td rowspan="30">机器学习</td>
       <td>机器学习概述</td>
       <td>Refine input by extracting important context</td>
     </tr>
