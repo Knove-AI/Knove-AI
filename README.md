@@ -120,12 +120,8 @@
       <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
     <tr>
       <td rowspan="10">深度学习</td>
-      <td>Encoder-Decoder Generator</td>
-      <td>Encoder-Decoder model, supporting <a href="https://arxiv.org/abs/2007.01282">Fusion-in-Decoder (FiD)</a></td>
-    </tr>
-    <tr>
       <td>深度学习概述</td>
-      <td>Native transformers implementation</td>
+      <td>Encoder-Decoder model, supporting <a href="https://arxiv.org/abs/2007.01282">Fusion-in-Decoder (FiD)</a></td>
     </tr>
     <tr>
       <td>神经网络模型</td>
@@ -165,12 +161,8 @@
     </tr>
     <tr>
       <td rowspan="10">自然语言处理</td>
-      <td>Encoder-Decoder Generator</td>
-      <td>Encoder-Decoder model, supporting <a href="https://arxiv.org/abs/2007.01282">Fusion-in-Decoder (FiD)</a></td>
-    </tr>
-    <tr>
       <td>自然语言处理概述</td>
-      <td>Native transformers implementation</td>
+      <td>Encoder-Decoder model, supporting <a href="https://arxiv.org/abs/2007.01282">Fusion-in-Decoder (FiD)</a></td>
     </tr>
     <tr>
       <td>词向量</td>
