@@ -38,7 +38,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="5"><a href="#wrench-installation">人工智能的数学基础</a></td>
+      <td rowspan="5"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1_数学基础">人工智能的数学基础</a></td>
       <td><a href="#wrench-installation">线性代数</a></td>
       <td>aaa</td>
     </tr>
