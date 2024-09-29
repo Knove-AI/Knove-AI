@@ -40,7 +40,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="5"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">人工智能的数学基础</a></td>
+      <td rowspan="5"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">人工智能数学基础</a></td>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH1-线性代数.md">线性代数</a></td>
       <td>向量，向量空间，矩阵，相似矩阵，对角化，二次型，正定矩阵，特征值，特征向量，奇异值分解，LU分解</td>
     </tr>
