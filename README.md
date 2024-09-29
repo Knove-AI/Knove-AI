@@ -40,28 +40,28 @@
     <tr>
       <td rowspan="5"><a href="#wrench-installation">人工智能的数学基础</a></td>
       <td><a href="#wrench-installation">线性代数</a></td>
-      <td>Bi-encoder models such as dpr, bge, e5, using faiss for search</td>
+      <td>aaa</td>
     </tr>
     <tr>
       <td><a href="#wrench-installation">微积分</a></td>
-      <td>Sparse retrieval method based on Lucene</td>
+      <td>aaa</td>
     </tr>
     <tr>
       <td><a href="#wrench-installation">数学优化</a></td>
-      <td>Calculate matching score using bi-Encoder</td>
+      <td>aaa</td>
     </tr>
     <tr>
       <td><a href="#wrench-installation">概率统计</a></td>
-      <td>Calculate matching score using cross-encoder</td>
+      <td>aaa</td>
     </tr>
     <tr>
       <td><a href="#wrench-installation">信息论</a></td>
-      <td>Calculate matching score using cross-encoder</td>
+      <td>aaa</td>
     </tr>
     <tr>
-      <td rowspan="30">机器学习</td>
+      <td rowspan="15">机器学习</td>
       <td>机器学习概述</td>
-      <td>Refine input by extracting important context</td>
+      <td>aaa</td>
     </tr>
     <tr>
       <td>线性回归</td>
@@ -78,46 +78,47 @@
     <tr>
       <td>贝叶斯分类器</td>
       <td>Use <a hred="#wrench-installation">Trace method to construct a knowledge graph</td>
-    <tr>
+    </tr>
     <tr>
       <td>逻辑回归与最大熵模型</td>
       <td>Use Trace method to construct a knowledge graph</td>
-    <tr>
+    </tr>
     <tr>
       <td>支持向量机</td>
       <td>Use Trace method to construct a knowledge graph</td>
-    <tr>
+    </tr>
     <tr>
       <td>决策树与随机森林</td>
       <td>Use Trace method to construct a knowledge graph</td>
-    <tr>
+    </tr>
     <tr>
       <td>集成学习</td>
       <td>Use Trace method to construct a knowledge graph</td>
-    <tr>
+    </tr>
     <tr>
       <td>EM算法</td>
       <td>Use Trace method to construct a knowledge graph</td>
-    <tr>
+    </tr>
     <tr>
       <td>聚类</td>
       <td>Use Trace method to construct a knowledge graph</td>
-    <tr>
+    </tr>
     <tr>
       <td>降维</td>
       <td>Use Trace method to construct a knowledge graph</td>
-    <tr>
+    </tr>
     <tr>
       <td>特征选择</td>
       <td>Use Trace method to construct a knowledge graph</td>
-    <tr>
+    </tr>
     <tr>
       <td>话题模型</td>
       <td>Use Trace method to construct a knowledge graph</td>
-    <tr>
+    </tr>
     <tr>
       <td>概率图模型</td>
       <td>Use Trace method to construct a knowledge graph</td>
+    </tr>
     <tr>
       <td rowspan="10">深度学习</td>
       <td>深度学习概述</td>
