@@ -27,7 +27,7 @@
 ### ☎️联系我们
 
 对接小姐姐微信号：PhiNorm
-<img src="assets/QRcode.jpeg">
+<img src="assets/QRcode.jpeg" style="width: 20%;">
 
 
 ### 📰News
