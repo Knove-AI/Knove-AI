@@ -38,24 +38,24 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="5">人工智能的数学基础</td>
-      <td>线性代数</td>
+      <td rowspan="5"><a href="#wrench-installation">人工智能的数学基础</a></td>
+      <td><a href="#wrench-installation">线性代数</a></td>
       <td>Bi-encoder models such as dpr, bge, e5, using faiss for search</td>
     </tr>
     <tr>
-      <td>微积分</td>
+      <td><a href="#wrench-installation">微积分</a></td>
       <td>Sparse retrieval method based on Lucene</td>
     </tr>
     <tr>
-      <td>数学优化</td>
+      <td><a href="#wrench-installation">数学优化</a></td>
       <td>Calculate matching score using bi-Encoder</td>
     </tr>
     <tr>
-      <td>概率统计</td>
+      <td><a href="#wrench-installation">概率统计</a></td>
       <td>Calculate matching score using cross-encoder</td>
     </tr>
     <tr>
-      <td>信息论</td>
+      <td><a href="#wrench-installation">信息论</a></td>
       <td>Calculate matching score using cross-encoder</td>
     </tr>
     <tr>
@@ -97,26 +97,6 @@
     </tr>
   </tbody>
 </table>
-
-<a href="https://github.com/Knove-AI">1. 人工智能的数学基础</a>
-
-    <a href="https://github.com/Knove-AI">1.1 线性代数</a>
-
-    <a href="https://github.com/Knove-AI">1.2 微积分</a>
-
-    <a href="https://github.com/Knove-AI">1.3 数学优化</a>
-    
-    <a href="https://github.com/Knove-AI">1.4 概率统计</a>
-
-    <a href="https://github.com/Knove-AI">1.5 信息论</a>
-
-<a href="https://github.com/Knove-AI">2. 机器学习</a>
-
-<a href="https://github.com/Knove-AI">3. 深度学习</a>
-
-<a href="https://github.com/Knove-AI">4. 自然语言处理</a>
-
-<a href="https://github.com/Knove-AI">5. 计算机视觉</a>
 
 #### 知予AI研究手册
 
