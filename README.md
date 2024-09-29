@@ -28,6 +28,76 @@
 
 #### 知予AI学习手册
 
+<table>
+  <thead>
+    <tr>
+      <th>章</th>
+      <th>节</th>
+      <th>内容</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">人工智能的数学基础</td>
+      <td>线性代数</td>
+      <td>Bi-encoder models such as dpr, bge, e5, using faiss for search</td>
+    </tr>
+    <tr>
+      <td>微积分</td>
+      <td>Sparse retrieval method based on Lucene</td>
+    </tr>
+    <tr>
+      <td>数学优化</td>
+      <td>Calculate matching score using bi-Encoder</td>
+    </tr>
+    <tr>
+      <td>概率统计</td>
+      <td>Calculate matching score using cross-encoder</td>
+    </tr>
+    <tr>
+      <td>信息论</td>
+      <td>Calculate matching score using cross-encoder</td>
+    </tr>
+    <tr>
+      <td rowspan="5">Refiner</td>
+      <td>Extractive Refiner</td>
+      <td>Refine input by extracting important context</td>
+    </tr>
+    <tr>
+      <td>Abstractive Refiner</td>
+      <td>Refine input through seq2seq model</td>
+    </tr>
+    <tr>
+      <td>LLMLingua Refiner</td>
+      <td><a href="https://aclanthology.org/2023.emnlp-main.825/">LLMLingua-series</a> prompt compressor</td>
+    </tr>
+    <tr>
+      <td>SelectiveContext Refiner</td>
+      <td><a href="https://arxiv.org/abs/2310.06201">Selective-Context</a> prompt compressor</td>
+    </tr>
+    <tr>
+      <td> KG Refiner </td>
+      <td>Use <a hred='https://arxiv.org/abs/2406.11460'>Trace method to construct a knowledge graph</td>
+    <tr>
+      <td rowspan="4">Generator</td>
+      <td>Encoder-Decoder Generator</td>
+      <td>Encoder-Decoder model, supporting <a href="https://arxiv.org/abs/2007.01282">Fusion-in-Decoder (FiD)</a></td>
+    </tr>
+    <tr>
+      <td>Decoder-only Generator</td>
+      <td>Native transformers implementation</td>
+    </tr>
+    <tr>
+      <td>FastChat Generator</td>
+      <td>Accelerate with <a href="https://github.com/lm-sys/FastChat">FastChat</a></td>
+    </tr>
+    <tr>
+      <td>vllm Generator</td>
+      <td>Accelerate with <a href="https://github.com/vllm-project/vllm">vllm</a></td>
+    </tr>
+  </tbody>
+</table>
+
 <a href="https://github.com/Knove-AI">1. 人工智能的数学基础</a>
 
     <a href="https://github.com/Knove-AI">1.1 线性代数</a>
