@@ -20,7 +20,7 @@
 
 (1) **人工智能基础知识的学习** 💡：多名优秀的博士生将人工智能**数理基础、机器学习、深度学习、自然语言处理、计算机视觉**等方向的主流学习资源汇总为统一格式的学习手册。该手册同时兼顾广度和深度，可以作为全面学习人工智能基础的资源。每个章节都涵盖了相关知识点、算法详解、代码实现、练手项目、以及所参考的学习资料出处。手册采用Markdown格式进行整理，简明扼要，图文并茂，格式美观统一，学习体验良好。
 
-(2) **从“学习者”变成“研究者**”🧐：知予AI将逐步发布AI研究手册系列，包括介绍**从学习思维到研究思维的转化、AI研究方向的选择、AI交叉学科、如何撰写以及发表一篇AI研究论文、如何进行科研实验**等。
+(2) **从“学习者”变成“研究者**” 🧐：知予AI将逐步发布AI研究手册系列，包括介绍**从学习思维到研究思维的转化、AI研究方向的选择、AI交叉学科、如何撰写以及发表一篇AI研究论文、如何进行科研实验**等。
 
 (3) **与富有经验的教学者一对一交流** 💬：平台提供与富有经验的优秀博士生/研究人员一对一交流的机会。如果学习者在学习和研究过程中需要进行**学习路径规划、研究路线规划、一对一请教学习**，或者遇到了**升学、留学、就业、竞赛、项目、论文撰写**等方面的难题，都可以与我们的对接客服小姐姐联系（微信号和二维码见“联系我们”），从而进一步链接到能够帮助解决问题的教学者。**我们不同于网上鱼龙混杂的中介平台，在这一过程中，知予AI不会收取任何中介费用，请放心联系**。
 
@@ -28,38 +28,40 @@
 
 ### 知予AI学习手册
 
+⚠️ 注意：每个章节的学习手册分为.md和.html两种格式。其中.md文件为源文件，可在下载后用第三方软件（如Typora）进行编辑；.html为使用Typora导出后的可视化文件，适用于不需要Markdown格式的读者。无论选择使用哪种格式的文件，请均在下载后打开（因为Github无法直接设置行内公式的格式）。
+
 <table>
   <thead>
     <tr>
-      <th>章</th>
-      <th>节</th>
+      <th>章节</th>
+      <th>子章节</th>
       <th>内容</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="5"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1_数学基础">人工智能的数学基础</a></td>
-      <td><a href="#wrench-installation">线性代数</a></td>
-      <td>aaa</td>
+      <td rowspan="5"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">人工智能的数学基础</a></td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH1-线性代数.md">线性代数</a></td>
+      <td>向量，向量空间，矩阵，相似矩阵，对角化，二次型，正定矩阵，特征值，特征向量，奇异值分解，LU分解</td>
     </tr>
     <tr>
-      <td><a href="#wrench-installation">微积分</a></td>
-      <td>aaa</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH2-微积分.md">微积分</a></td>
+      <td>微分，积分，矩阵微积分</td>
     </tr>
     <tr>
-      <td><a href="#wrench-installation">数学优化</a></td>
-      <td>aaa</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH3-数学优化.md">数学优化</a></td>
+      <td>数学优化的类型，凸优化基础，优化算法，拉格朗日乘数法与KKT条件</td>
     </tr>
     <tr>
-      <td><a href="#wrench-installation">概率统计</a></td>
-      <td>aaa</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH4-概率统计.md">概率统计</a></td>
+      <td>概率统计的基本概念，随机变量，概率分布，参数估计</td>
     </tr>
     <tr>
-      <td><a href="#wrench-installation">信息论</a></td>
-      <td>aaa</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH5-信息论.md">信息论</a></td>
+      <td>熵，互信息，交叉熵和散度</td>
     </tr>
     <tr>
-      <td rowspan="15">机器学习</td>
+      <td rowspan="15"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/2-机器学习">机器学习</a></td>
       <td>机器学习概述</td>
       <td>aaa</td>
     </tr>
