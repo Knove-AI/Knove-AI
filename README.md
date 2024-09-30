@@ -1,8 +1,18 @@
-# 知予AI：从人工智能学习者到人工智能研究者 🪐
+# 知予AI：在大语言模型时代，从人工智能学习者到研究者 🪐
 
-摘要：越来越多的学生已加入到**人工智能**（Artificial Intelligence, AI）的学习和研究中，并且将AI应用到自己的生活和工作中。然而在研究和学习过程中，大家往往会遇到数不清的坎坷和挫折，可能是对某个算法的概念难以理解，可能是编程中某个bug难以解决，也可能是无法想出研究idea时感到迷茫。**知予AI**（Knove-AI）立志于解决这一问题。首先，知予AI是一份内容丰富的**中英文学习手册**：手册涵盖了人工智能领域的多个方向的**基础知识、算法原理、代码实现**等，并引导从“人工智能的学习者”到“人工智能的研究者”进行过渡，真正参与到人工智能的前沿研究，包括**确定研究方向，进行实验，撰写人工智能领域的论文**等。其次，知予AI是一个**链接富有经验的人工智能的学者和和初出茅庐的人工智能新手的桥梁**：知予AI学习手册由来自清华大学、北京大学、 中国人民大学、哥伦比亚大学等高校的多名优秀的博士研究生及研究员整理。这些学者作为过来人深知学习和研究过程中的不易，因此知予AI提供了**学习者与教学者一对一交流**的机会。
+**大语言模型**时代，越来越多的学生已加入到**人工智能**（Artificial Intelligence, AI）的学习和研究中，并且将AI应用到自己的生活和工作中。然而在研究和学习过程中，大家往往会遇到数不清的坎坷和挫折，可能是对某个算法的概念难以理解，可能是编程中某个bug难以解决，也可能是无法想出研究idea时感到迷茫。**知予AI**（Knove-AI）立志于解决这一问题。
 
-## 知予AI立志于构建一个学习者、学习资源、教学者三位一体的人工智能学习平台 ⚡
+首先，知予AI是一份内容丰富的**中英文学习手册**：手册涵盖了人工智能领域的多个方向的**基础知识、算法原理、代码实现**等，并引导从“人工智能的学习者”到“人工智能的研究者”进行过渡，真正参与到人工智能的前沿研究，包括**确定研究方向，进行实验，撰写人工智能领域的论文**等。
+
+其次，知予AI是一个**链接富有经验的人工智能的学者和和初出茅庐的人工智能新手的桥梁**：知予AI学习手册由来自清华大学、北京大学、 中国人民大学、哥伦比亚大学等高校的多名优秀的博士研究生及研究员整理。这些学者作为过来人深知学习和研究过程中的不易，因此知予AI提供了**学习者与教学者一对一交流**的机会。
+
+注：目前知予AI主要专注于**自然语言处理**（Natural Language Processing）领域的学习和研究，并给出深入的示例和研究向导。但AI的各个研究领域都是融会贯通的，知予AI的模式亦可以为各行业AI学习和研究人士所借鉴。
+
+## 知予AI立志于构建一个学习者、学习资源、教学者三位一体的AI学习平台 ⚡
+
+2016年，人工智能的学习掀起了热潮，许多大学生们仿佛都有志于加入AI行业进行研究或从事相关职业。2023年，大语言模型得到了飞速发展，随之而来的学习资源也是五花八门。因此，**如何选择有用且高效的学习资料来入门人工智能，学习自然语言处理，甚至进行相关研究工作，成为了大家广泛面对的问题**。
+
+针对以上现状，知予AI召集了来自清华大学、北京大学、中国人民大学、哥伦比亚大学等一流高校的博士研究生，从基础知识、算法原理、代码实现出发，到研究方向的确立、实验的开展、论文的撰写，进行了全方位的总结和梳理。
 
 ### (1) 学习者（Learner）🧑‍🎓
 
@@ -28,7 +38,7 @@
 
 ### 知予AI学习手册
 
-⚠️ 注意：每个章节的学习手册分为.md和.html两种格式。其中.md文件为源文件，可在下载后用第三方软件（如Typora）进行编辑；.html为使用Typora导出后的可视化文件，适用于不需要Markdown格式的读者。无论选择使用哪种格式的文件，请均在下载后打开（因为Github无法直接设置行内公式的格式）。除以下列出章节，每章最后还附上了推荐学习资源。
+⚠️ 注意：每个章节的学习手册分为.md和.html两种格式。其中.md文件为源文件，可在下载后用第三方软件（如Typora）进行编辑；.html为使用Typora导出后的可视化文件，适用于不需要Markdown格式的读者。无论选择使用哪种格式的文件，请均在下载后打开（因为Github无法直接设置行内公式的格式）。除以下列出章节，我们还在根目录附上了推荐的学习资源、思维导图等材料。
 
 <table>
   <thead>
@@ -40,7 +50,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="5"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">人工智能数学基础</a></td>
+      <td rowspan="5"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">人工智能数学基础：介绍学习人工智能需要的基本数学知识，主要包括线性代数、微积分、概率统计等</a></td>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH1-线性代数.md">线性代数</a></td>
       <td>向量，向量空间，矩阵，相似矩阵，对角化，二次型，正定矩阵，特征值，特征向量，奇异值分解，LU分解</td>
     </tr>
@@ -61,7 +71,7 @@
       <td>熵，互信息，交叉熵和散度</td>
     </tr>
     <tr>
-      <td rowspan="15"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/2-机器学习">机器学习</a></td>
+      <td rowspan="15"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/2-机器学习">机器学习：介绍机器学习的基础知识、理论，以及各类主流的机器学习算法</a></td>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML1-机器学习概述.md">机器学习概述</a></td>
       <td>人工智能，统计学习，统计学习的分类，统计学习三要素，模型评估，模型选择，正则化，交叉验证，泛化能力，生成模型与判别模型，监督学习的评价指标，假设空间，归纳偏好</td>
     </tr>
@@ -122,9 +132,9 @@
       <td>概率图模型概述，模型表示，概率图模型的学习，概率图模型的推断，基于隐马尔可夫模型的语音识别，基于隐马尔可夫模型的语音识别</td>
     </tr>
     <tr>
-      <td rowspan="10">深度学习</td>
+      <td rowspan="9"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/3-深度学习">深度学习：介绍基于神经网络的学习范式，以及一些常见的神经网络结构</a></td>
       <td>深度学习概述</td>
-      <td>表示学习，深度学习，神经网络，神经网络的学习，深度学习框架，</td>
+      <td>表示学习，深度学习，神经网络，神经网络的学习，深度学习框架</td>
     </tr>
     <tr>
       <td>神经网络模型</td>
@@ -136,34 +146,34 @@
     </tr>
     <tr>
       <td>循环神经网络</td>
-      <td>序列数据和语言模型，网络结构，</td>
+      <td>序列数据和语言模型，网络结构，循环神经网络的应用，循环神经网络的训练，长程依赖问题，LSTM，GRU，深层循环神经网络，扩展到图结构，Tensorflow实现循环神经网络进行情感分析，Tensorflow实现循环神经网络进行文本生成</td>
     </tr>
     <tr>
       <td>神经网络的优化</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>网络优化的难点，优化算法，参数初始化，数据预处理，逐层归一化，超参数优化，网络正则化，Tensorflow实现神经网络并比较不同的优化器的优化效果</td>
     </tr>
     <tr>
       <td>自编码器</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>自编码器，稀疏自编码器，堆叠自编码器，降噪自编码器，Tensroflow实现自编码器完成光谱数据的降维与重构</td>
     </tr>
     <tr>
       <td>深度生成模型</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>概率生成模型，变分自编码器，Pytorch实现VAE进行MNIST手写数字生成，生成式对抗网络，Tensorflow实现GAN进行MNIST手写数字生成</td>
     </tr>
     <tr>
       <td>注意力机制与外部记忆</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>注意力，注意力机制的应用（指针网络，自注意力机制），外部记忆</td>
     </tr>
     <tr>
       <td>图神经网络</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>图神经网络概述，图神经网络中的矩阵，图卷积神经网络，Text Graph Convolutional Networks，图注意力网络，图嵌入</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>深度强化学习</td>
       <td>Use Trace method to construct a knowledge graph</td>
-    </tr>
+    </tr> -->
     <tr>
-      <td rowspan="10">自然语言处理</td>
+      <td rowspan="6">自然语言处理</td>
       <td>自然语言处理概述</td>
       <td>Use Trace method to construct a knowledge graph</td>
     </tr>
@@ -184,11 +194,11 @@
       <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
-      <td>大语言模型</td>
+      <td>自然语言处理应用</td>
       <td>Use Trace method to construct a knowledge graph</td>
     </tr>
     <tr>
-      <td>自然语言处理应用</td>
+      <td>大语言模型</td>
       <td>Use Trace method to construct a knowledge graph</td>
     </tr>
   </tbody>
