@@ -217,16 +217,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">研究方向的选择：以自然语言处理领域为为例</a></td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">研究方向的选择：以自然语言处理领域为例</a></td>
       <td>研究方向的来源，研究方向的分类，</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH2-微积分.md">一篇AI领域（以NLP为例）论文的结构</a></td>
       <td>如何阅读一篇论文，如何撰写一篇论文</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH3-数学优化.md">数学优化</a></td>
-      <td>数学优化的类型，凸优化基础，优化算法，拉格朗日乘数法与KKT条件</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH4-概率统计.md">概率统计</a></td>
