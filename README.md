@@ -221,16 +221,16 @@
       <td>研究方向的来源，研究方向的分类，</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH5-信息论.md">如何构思一个有意义的idea</a></td>
+      <td>熵，互信息，交叉熵和散度</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH2-微积分.md">一篇AI领域（以NLP为例）论文的结构</a></td>
       <td>如何阅读一篇论文，如何撰写一篇论文</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH4-概率统计.md">概率统计</a></td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH4-概率统计.md">开展实验</a></td>
       <td>概率统计的基本概念，随机变量，概率分布，参数估计</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH5-信息论.md">信息论</a></td>
-      <td>熵，互信息，交叉熵和散度</td>
     </tr>
   </tbody>
 </table>
