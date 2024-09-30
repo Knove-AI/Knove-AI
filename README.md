@@ -124,15 +124,15 @@
     <tr>
       <td rowspan="10">深度学习</td>
       <td>深度学习概述</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>表示学习，深度学习，神经网络，神经网络的学习，深度学习框架，</td>
     </tr>
     <tr>
       <td>神经网络模型</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>神经网络的基本结构，激活函数，前馈神经网络，反向传播算法，通用近似定理，自动梯度计算，Tensorflow实现全连接神经网络进行MNIST手写数字识别，Pytorch实现全连接神经网络进行MNIST手写数字识别</td>
     </tr>
     <tr>
       <td>卷积神经网络</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>卷积，卷积神经网络，参数学习，几种常见的卷积神经网络，其他卷积方式，Tensorflow实现卷积神经网络进行Fashion MNIST衣物识别，Pytorch实现卷积神经网络进行Fashion MNIST衣物识别</td>
     </tr>
     <tr>
       <td>循环神经网络</td>
