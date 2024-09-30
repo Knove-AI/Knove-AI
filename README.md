@@ -49,8 +49,8 @@
 <table>
   <thead>
     <tr>
-      <th>章节</th>
-      <th>子章节</th>
+      <th width=10%>章节</th>
+      <th width=10%>子章节</th>
       <th>内容</th>
     </tr>
   </thead>
