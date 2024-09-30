@@ -217,6 +217,10 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">快速上手最新的研究工具：以大语言模型为例</a></td>
+      <td>大语言模型基础，LLaMA Factory</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">研究方向的选择：以自然语言处理领域为例</a></td>
       <td>研究方向的来源，研究方向的分类，</td>
     </tr>
