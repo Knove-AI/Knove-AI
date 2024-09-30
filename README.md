@@ -139,39 +139,39 @@
     </tr>
     <tr>
       <td rowspan="9"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/3-深度学习">深度学习：介绍基于神经网络的学习范式，以及一些常见的神经网络结构</a></td>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL1-深度学习概述.md">深度学习概述</a><</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL1-深度学习概述.md">深度学习概述</a></td>
       <td>表示学习，深度学习，神经网络，神经网络的学习，深度学习框架</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL2-神经网络模型.md">神经网络模型</a><</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL2-神经网络模型.md">神经网络模型</a></td>
       <td>神经网络的基本结构，激活函数，前馈神经网络，反向传播算法，通用近似定理，自动梯度计算，Tensorflow实现全连接神经网络进行MNIST手写数字识别，Pytorch实现全连接神经网络进行MNIST手写数字识别</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL3-卷积神经网络.md">卷积神经网络</a><</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL3-卷积神经网络.md">卷积神经网络</a></td>
       <td>卷积，卷积神经网络，参数学习，几种常见的卷积神经网络，其他卷积方式，Tensorflow实现卷积神经网络进行Fashion MNIST衣物识别，Pytorch实现卷积神经网络进行Fashion MNIST衣物识别</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL4-循环神经网络.md">循环神经网络</a><</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL4-循环神经网络.md">循环神经网络</a></td>
       <td>序列数据和语言模型，网络结构，循环神经网络的应用，循环神经网络的训练，长程依赖问题，LSTM，GRU，深层循环神经网络，扩展到图结构，Tensorflow实现循环神经网络进行情感分析，Tensorflow实现循环神经网络进行文本生成</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL5-神经网络的优化.md">神经网络的优化</a><</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL5-神经网络的优化.md">神经网络的优化</a></td>
       <td>网络优化的难点，优化算法，参数初始化，数据预处理，逐层归一化，超参数优化，网络正则化，Tensorflow实现神经网络并比较不同的优化器的优化效果</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL6-自编码器.md">自编码器</a><</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL6-自编码器.md">自编码器</a></td>
       <td>自编码器，稀疏自编码器，堆叠自编码器，降噪自编码器，Tensroflow实现自编码器完成光谱数据的降维与重构</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL7-深度生成模型.md">深度生成模型</a><</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL7-深度生成模型.md">深度生成模型</a></td>
       <td>概率生成模型，变分自编码器，Pytorch实现VAE进行MNIST手写数字生成，生成式对抗网络，Tensorflow实现GAN进行MNIST手写数字生成</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL8-注意力机制与外部记忆.md">注意力机制与外部记忆</a><</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL8-注意力机制与外部记忆.md">注意力机制与外部记忆</a></td>
       <td>注意力，注意力机制的应用（指针网络，自注意力机制），外部记忆</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL9-图神经网络.md">图神经网络</a><</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL9-图神经网络.md">图神经网络</a></td>
       <td>图神经网络概述，图神经网络中的矩阵，图卷积神经网络，Text Graph Convolutional Networks，图注意力网络，图嵌入</td>
     </tr>
     <tr>
