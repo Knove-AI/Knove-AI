@@ -136,7 +136,7 @@
     </tr>
     <tr>
       <td>循环神经网络</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>序列数据和语言模型，网络结构</td>
     </tr>
     <tr>
       <td>神经网络的优化</td>
