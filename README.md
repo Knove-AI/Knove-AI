@@ -143,7 +143,7 @@
       <td>表示学习，深度学习，神经网络，神经网络的学习，深度学习框架</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL2-神经网络模型.md">神经网络模型</a></td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL2-神经网络.md">神经网络</a></td>
       <td>神经网络的基本结构，激活函数，前馈神经网络，反向传播算法，通用近似定理，自动梯度计算，Tensorflow实现全连接神经网络进行MNIST手写数字识别，Pytorch实现全连接神经网络进行MNIST手写数字识别</td>
     </tr>
     <tr>
