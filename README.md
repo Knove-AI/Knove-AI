@@ -49,14 +49,14 @@
 <table>
   <thead>
     <tr>
-      <th width=10%>章节</th>
-      <th width=10%>子章节</th>
+      <th width=20%>章节</th>
+      <th width=15%>子章节</th>
       <th>内容</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="5" witdh=10%><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">人工智能数学基础：介绍学习人工智能需要的基本数学知识，主要包括线性代数、微积分、概率统计等</a></td>
+      <td rowspan="5"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">人工智能数学基础：介绍学习人工智能需要的基本数学知识，主要包括线性代数、微积分、概率统计等</a></td>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH1-线性代数.md">线性代数</a></td>
       <td>向量，向量空间，矩阵，相似矩阵，对角化，二次型，正定矩阵，特征值，特征向量，奇异值分解，LU分解</td>
     </tr>
@@ -77,7 +77,7 @@
       <td>熵，互信息，交叉熵和散度</td>
     </tr>
     <tr>
-      <td rowspan="15" witdh=10%><a href="https://github.com/Knove-AI/Knove-AI/tree/main/2-机器学习">机器学习：介绍机器学习的基础知识、理论，以及各类主流的机器学习算法</a></td>
+      <td rowspan="15"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/2-机器学习">机器学习：介绍机器学习的基础知识、理论，以及各类主流的机器学习算法</a></td>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/2-机器学习/ML1-机器学习概述.md">机器学习概述</a></td>
       <td>人工智能，统计学习，统计学习的分类，统计学习三要素，模型评估，模型选择，正则化，交叉验证，泛化能力，生成模型与判别模型，监督学习的评价指标，假设空间，归纳偏好</td>
     </tr>
@@ -138,7 +138,7 @@
       <td>概率图模型概述，模型表示，概率图模型的学习，概率图模型的推断，基于隐马尔可夫模型的语音识别，基于隐马尔可夫模型的语音识别</td>
     </tr>
     <tr>
-      <td rowspan="9" witdh=10%><a href="https://github.com/Knove-AI/Knove-AI/tree/main/3-深度学习">深度学习：介绍基于神经网络的学习范式，以及一些常见的神经网络结构</a></td>
+      <td rowspan="9"><a href="https://github.com/Knove-AI/Knove-AI/tree/main/3-深度学习">深度学习：介绍基于神经网络的学习范式，以及一些常见的神经网络结构</a></td>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/3-深度学习/DL1-深度学习概述.md">深度学习概述</a></td>
       <td>表示学习，深度学习，神经网络，神经网络的学习，深度学习框架</td>
     </tr>
