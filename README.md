@@ -217,7 +217,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">快速上手最新的研究工具：以大语言模型为例</a></td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">快速上手最新研究内容，资源，和工具：以大语言模型为例</a></td>
       <td>大语言模型基础，LLaMA Factory</td>
     </tr>
     <tr>
@@ -230,11 +230,15 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH5-信息论.md">如何构思一个有意义的idea</a></td>
-      <td>XXX</td>
+      <td>idea的种类，看论文与想idea的关系</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH2-微积分.md">一篇AI领域（以NLP为例）论文的结构</a></td>
-      <td>如何阅读一篇论文，如何撰写一篇论文</td>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH2-微积分.md">如何阅读一篇AI领域（以NLP为例）的论文</a></td>
+      <td>一篇AI领域（以NLP为例）论文的结构，如何撰写一篇论文</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH2-微积分.md">如何撰写一篇AI领域（以NLP为例）的论文</a></td>
+      <td>摘要，Introduction，Related Work，Methods，Experiments，Conclusion</td>
     </tr>
   </tbody>
 </table>
