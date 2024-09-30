@@ -175,25 +175,25 @@
       <td>图神经网络概述，图神经网络中的矩阵，图卷积神经网络，Text Graph Convolutional Networks，图注意力网络，图嵌入</td>
     </tr>
     <tr>
-      <td rowspan="7 witdh=10%">自然语言处理</td>
+      <td rowspan="7">自然语言处理：介绍了NLP的基础知识和应用，以及NLP发展历程上的重大里程碑技术，包括词向量、语言模型、序列到序列模型、预训练模型、大语言模型</td>
       <td>自然语言处理概述</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>自然语言与编程语言，自然语言处理的任务，自然语言处理的知识域，歧义，传统模型和算法，语言、思维和理解，正则表达式，词，文本规范化，深度学习与自然语言处理，jieba库的分词、词性标注与关键词提取操作示例，</td>
     </tr>
     <tr>
       <td>词向量</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>词向量概述，CBOW，skip-gram，word2vec的优化，GloVe，词向量的评估，句子与文档的嵌入，使用gensim中的word2vec工具训练词向量，</td>
     </tr>
     <tr>
       <td>语言模型</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>N元语法，评估语言模型，泛化与未知词汇，平滑，神经语言模型，Tensorflow实现神经语言模型</td>
     </tr>
     <tr>
-      <td>序列到序列</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>seq2seq与attention</td>
+      <td>序列到序列模型，注意力机制，注意力机制在序列模型中的应用，序列生成模型的评价指标，Tensorflow实现Seq2Seq+Attention完成机器翻译任务</td>
     </tr>
     <tr>
       <td>预训练模型</td>
-      <td>Use Trace method to construct a knowledge graph</td>
+      <td>ELMo，Transformer，BERT，ERNIE，GPT</td>
     </tr>
     <tr>
       <td>自然语言处理应用</td>
