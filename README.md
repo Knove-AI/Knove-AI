@@ -1,6 +1,6 @@
 # 知予AI：在大语言模型时代，从人工智能学习者到研究者 🪐
 
-<img src="assets/Knove-1.png" style="width: 40%;">
+<img src="assets/Knove-1.png" style="width: 40%;" align=center>
 
 **大语言模型**时代，越来越多的学生已加入到**人工智能**（Artificial Intelligence, AI）的学习和研究中，并且将AI应用到自己的生活和工作中。然而在研究和学习过程中，大家往往会遇到数不清的坎坷和挫折，可能是对某个算法的概念难以理解，可能是编程中某个bug难以解决，也可能是无法想出研究方向时感到迷茫。**知予AI**（Knove-AI）立志于解决这一问题。
 
