@@ -264,13 +264,13 @@
   </tbody>
 </table>
 
-## 联系我们 ☎️
+## ☎️ 联系我们
 
 **如需要与教学者进行一对一交流，请添加对接小姐姐微信号PhiNorm，或扫描以下二维码：**
 
 <img src="assets/QRcode.jpeg" style="width: 30%;">
 
-## News 📰
+## 📰 News
 
 [2024-10-01] 知予AI平台中文研究手册发布准备中！💪
 
