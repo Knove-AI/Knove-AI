@@ -1,11 +1,11 @@
 # 🪐 知予AI：大语言模型时代，助力AI学习者成长为研究者
 
 <p align="center">
-<a href="#sparkles-features" style="color: #FFC04C;">平台简介</a> |
-<a href="#running-quick-start" style="color: #FFA500;">学习者能在知予AI获得什么</a> |
-<a href="#gear-components" style="color: #FF8C00;">知予AI学习手册</a> |
-<a href="#robot-supporting-methods" style="color: #FF7F50;">知予AI研究手册</a> |
-<a href="#raised_hands-additional-faqs" style="color: #FF4500;">联系我们（寻找/成为知予AI教学者）</a>
+<a href="#Brief-Intro" style="color: #FFC04C;">平台简介</a> |
+<a href="#What-To-Get" style="color: #FFA500;">学习者能在知予AI获得什么</a> |
+<a href="#Knove-AI-Learn" style="color: #FF8C00;">知予AI学习手册</a> |
+<a href="#Knove-AI-Research" style="color: #FF7F50;">知予AI研究手册</a> |
+<a href="#Contact-Us" style="color: #FF4500;">联系我们（寻找/成为知予AI教学者）</a>
 </p>
 
 <div align=center><img src="assets/Knove-1.png" style="width: 40%;"></div>
@@ -18,7 +18,7 @@
 
 目前，知予AI主要聚焦于**自然语言处理**（Natural Language Processing, NLP）领域，提供详尽示例与研究指导。与此同时，其模式也适用于其他人工智能领域，为更多行业的学习者与研究者提供启发与支持。
 
-## ⚡ 知予AI致力于打造“学习者+资源+教学者”三位一体的AI学习平台
+## ⚡ 知予AI致力于打造“学习者+资源+教学者”三位一体的AI学习平台<a name="Brief-Intro"> </a>
 
 2016年，人工智能学习热潮兴起，许多大学生投身AI行业，立志从事研究或相关职业。到2023年，大语言模型技术飞速发展，学习资源层出不穷，如何高效选择适合的资料、系统入门人工智能、掌握自然语言处理并迈向科研，已成为学习者面临的共同难题。
 
@@ -38,7 +38,7 @@
 
 在AI学习和研究中，许多问题无法通过查阅资料解决，但经验丰富的前辈往往能带来关键帮助。**知予AI**不仅提供学习资源，还引入教学者角色——这些教学者是在顶级会议/期刊发表过多篇论文的学者与研究员。通过平台，学习者可与教学者**一对一交流**，获得针对性指导，解决学习和研究中的实际难题。
 
-## 🤔 学习者能在知予AI获得什么
+## 🤔 学习者能在知予AI获得什么<a name="What-To-Get"> </a>
 
 如果你——
 
@@ -74,7 +74,7 @@
 
 每章节的参考资源可在 `.md` 和 `.html` 文件底部找到。除此之外，根目录还附有推荐学习资源、思维导图等材料，供进一步学习使用。
 
-### 知予AI学习手册
+### 知予AI学习手册<a name="Knove-AI-Learn"> </a>
 
 <table>
   <thead>
@@ -236,7 +236,7 @@
   </tbody>
 </table>
 
-### 知予AI研究手册
+### 知予AI研究手册<a name="Knove-AI-Research"> </a>
 
 <table>
   <thead>
@@ -274,7 +274,7 @@
   </tbody>
 </table>
 
-## ☎️ 联系我们
+## ☎️ 联系我们<a name="Contact-Us"> </a>
 
 **如需要与教学者进行一对一交流，请添加对接小姐姐微信号PhiNorm，或扫描以下二维码：**
 
