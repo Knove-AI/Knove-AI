@@ -248,16 +248,16 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">在AI领域，从学习思维到研究思维的转变</a></td>
+      <td>大语言模型基础，LLaMA Factory</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">快速上手最新研究内容，资源，和工具：以大语言模型为例</a></td>
       <td>大语言模型基础，LLaMA Factory</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">研究方向的选择：以自然语言处理领域为例</a></td>
       <td>研究方向的来源，研究方向的分类，</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH4-概率统计.md">开展实验</a></td>
-      <td>IDE，Pytorch等深度学习框架，</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH5-信息论.md">如何构思一个有意义的idea</a></td>
