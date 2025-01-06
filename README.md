@@ -229,12 +229,9 @@
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/4-自然语言处理/NLP6-自然语言处理应用.md">自然语言处理应用</a></td>
       <td>文本分类（序列到类别），文本摘要（异步序列到序列），机器阅读理解（同步序列到序列）</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/4-自然语言处理/NLP7-大语言模型.md">大语言模型</a></td>
-      <td>-</td>
-    </tr>
   </tbody>
 </table>
+
 
 ### 知予AI研究手册<a name="Knove-AI-Research"> </a>
 
@@ -243,21 +240,20 @@
     <tr>
       <th>章节</th>
       <th>内容</th>
-      <th>来源</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">在AI领域，从学习思维到研究思维的转变</a></td>
-      <td>大语言模型基础，LLaMA Factory</td>
+      <td>基础知识学习与科学研究的区别，</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">快速上手最新研究内容，资源，和工具：以大语言模型为例</a></td>
-      <td>大语言模型基础，LLaMA Factory</td>
+      <td>大语言模型概述，最新论文</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/tree/main/1-数学基础">研究方向的选择：以自然语言处理领域为例</a></td>
-      <td>研究方向的来源，研究方向的分类，</td>
+      <td>研究方向的分类，研究方向的来源，如何自主选择研究方向</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Knove-AI/Knove-AI/blob/main/1-数学基础/MATH5-信息论.md">如何构思一个有意义的idea</a></td>
@@ -273,6 +269,7 @@
     </tr>
   </tbody>
 </table>
+
 
 ## ☎️ 联系我们<a name="Contact-Us"> </a>
 
